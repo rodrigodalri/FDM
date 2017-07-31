@@ -1,7 +1,3 @@
-Trabalho realizado em conjunto com:;
+Trabalho realizado em conjunto com:
 
-  Amanda Bandeira;
-  Henrique Ecker Pchara;
-  João Pedro Weit;
-  Rafael Koch Peres;
-  Ricardo Sabedra;
+  Amanda Bandeira, Henrique Ecker Pchara, João Pedro Weit, Rafael Koch Peres, Ricardo Sabedra.

@@ -1,2 +1,7 @@
-# FDM
-FDM - Trabalho Prático da disciplina de Teoria Eletromagnética e Ondas (ENG04010) - UFRGS 
+Trabalho realizado em conjunto com:
+
+  Amanda Bandeira
+  Henrique Ecker Pchara
+  João Pedro Weit
+  Rafael Koch Peres
+  Ricardo Sabedra
